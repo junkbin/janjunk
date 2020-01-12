@@ -22,4 +22,16 @@ export function Hello() {
  */
 
 /** Fat Arrow Functions */
-export const World = () => {};
+export const World = () => {
+  return (
+    <>
+      <View>
+        <Text>Hello Worldddd</Text>
+      </View>
+
+      <View>
+        <Text>Hello Again</Text>
+      </View>
+    </>
+  );
+};
