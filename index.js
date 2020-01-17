@@ -4,7 +4,7 @@
 
 import {AppRegistry} from 'react-native';
 import App from './App';
-import {HelloComponent as Exceutor} from './src';
+import {HelloParms as Exceutor} from './src';
 
 import {name as appName} from './app.json';
 
