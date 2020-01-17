@@ -1,2 +1,2 @@
-export * from './HelloDemo';
+export * from './HelloComponent';
 export * from './Hello';

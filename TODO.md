@@ -4,6 +4,7 @@
 - ES 6 :: Importance of index.js
 - ES 6 :: import {Hello as Executor}
 - HTML Tags vs React Component
+- Split the React Component :: Understand the Component System
 
 # TODO - 1
 
