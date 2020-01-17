@@ -9,7 +9,7 @@ export function Hello() {
   return (
     <View>
       <Text style={{fontSize: 30, color: 'white', backgroundColor: 'gold'}}>
-        Hello World
+        Hello Worlddd
       </Text>
       <Text>{appTitle}</Text>
     </View>
@@ -26,7 +26,7 @@ export const World = () => {
   return (
     <>
       <View>
-        <Text>Hello Worldddd</Text>
+        <Text>Hello Worldddd Againg</Text>
       </View>
 
       <View>
