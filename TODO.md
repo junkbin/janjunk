@@ -14,6 +14,8 @@
 - Loop Avance :: ScrollView
 - Scroll View vs Flat List :: Render Limited Element
 - Practice Section List
+- Styled Component :: [https://styled-components.com/docs/basics](https://styled-components.com/docs/basics)
+- Extension :: vscode-styled-components
 
 # TODO - 1
 
