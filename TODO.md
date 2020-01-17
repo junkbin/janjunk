@@ -16,6 +16,7 @@
 - Practice Section List
 - Styled Component :: [https://styled-components.com/docs/basics](https://styled-components.com/docs/basics)
 - Extension :: vscode-styled-components
+- Study : Condition in React
 
 # TODO - 1
 
