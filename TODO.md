@@ -9,6 +9,7 @@
 - ES6 Advance Concept :: params ::
 - ES6 Advance Conceopt :: Spread Operator
 - ES6 Advance Concept :: Default Value
+- Hello Loop
 
 # TODO - 1
 
